@@ -1,0 +1,146 @@
+{
+  "mainOuter": {
+    "type": "cylinder",
+    "radiusTop": 42,
+    "radiusBottom": 42,
+    "height": 33,
+    "radialSegments": 100,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 16.5,
+      "rotateX": 90,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "mainInner": {
+    "type": "cylinder",
+    "radiusTop": 30,
+    "radiusBottom": 30,
+    "height": 20,
+    "radialSegments": 100,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 27,
+      "rotateX": 90,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "mainCircle": {
+    "type": "circle",
+    "innerRadius": 0,
+    "outerRadius": 30,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 17,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "vertCircle": {
+    "type": "circle",
+    "innerRadius": 42,
+    "outerRadius": 46,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 33,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "mainRing": {
+    "type": "ring",
+    "innerRadius": 47,
+    "outerRadius": 72,
+    "height": 10,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 43,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "smallRing": {
+    "type": "ring",
+    "innerRadius": 72,
+    "outerRadius": 78,
+    "height": 5,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 48,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "outerAngled": {
+    "type": "cylinder",
+    "radiusTop": 50,
+    "radiusBottom": 46,
+    "height": 10,
+    "radialSegments": 100,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 38,
+      "rotateX": 90,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "innerAngled": {
+    "type": "cylinder",
+    "radiusTop": 47,
+    "radiusBottom": 30,
+    "height": 10,
+    "radialSegments": 100,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 42,
+      "rotateX": 90,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  },
+  "sphere": {
+    "type": "sphere",
+    "radius": 93,
+    "theta": 0.15,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": -83,
+      "rotateX": 270,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#B92020"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cylinder": {
+    "type": "cylinder",
+    "radiusTop": 2,
+    "radiusBottom": 2.5,
+    "height": 3,
+    "radialSegments": 30,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  }
+}

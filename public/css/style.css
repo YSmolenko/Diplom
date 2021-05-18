@@ -1,0 +1,48 @@
+html, body {
+    overflow: hidden;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.menu {
+    left: 0;
+    width: 20%;
+    height: 100%;
+    padding: 20px;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #6290a7;
+    position: absolute;
+    display: none;
+}
+
+.menuBtn {
+    background-color: #417893;
+    position: absolute;
+    height: 30px;
+}
+
+.login2 {
+    display: none;
+}
+
+.models {
+    overflow-y: scroll;
+    height: 80%;
+}
+
+.removeBtn {
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+    border: 1px solid #cccccc;
+}

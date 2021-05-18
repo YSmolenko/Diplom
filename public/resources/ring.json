@@ -1,0 +1,16 @@
+{
+  "ring": {
+    "type": "ring",
+    "innerRadius": 39,
+    "outerRadius": 55,
+    "height": 7,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  }
+}

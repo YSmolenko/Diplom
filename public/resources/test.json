@@ -1,0 +1,18 @@
+{
+  "test": {
+    "type": "ring",
+    "innerRadius": 0,
+    "outerRadius": 3,
+    "innerRadius2": 10,
+    "outerRadius2": 15,
+    "height": 7,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  }
+}

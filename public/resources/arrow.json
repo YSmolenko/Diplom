@@ -1,0 +1,36 @@
+{
+  "head": {
+    "type": "cylinder",
+    "radiusTop": 0,
+    "radiusBottom": 4,
+    "height": 10,
+    "radialSegments": 3,
+    "openEnded": true,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 55,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  },
+  "body": {
+    "type": "cylinder",
+    "radiusTop": 1,
+    "radiusBottom": 1,
+    "height": 100,
+    "radialSegments": 20,
+    "openEnded": false,
+    "thetaLength": 1,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  }
+}

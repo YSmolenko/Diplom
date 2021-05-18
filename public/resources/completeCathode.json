@@ -1,0 +1,30 @@
+{
+  "cathode": {
+    "type": "model",
+    "filePath": "../resources/cathode.json"
+  },
+  "shield": {
+    "type": "model",
+    "filePath": "../resources/shield.json",
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 33,
+      "rotateX": 180,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  },
+  "flange": {
+    "type": "model",
+    "filePath": "../resources/flange.json",
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 53,
+      "rotateX": 180,
+      "rotateY": 0,
+      "rotateZ": 0
+    }
+  }
+}

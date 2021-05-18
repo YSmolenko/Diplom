@@ -1,0 +1,28 @@
+{
+  "name": "diploma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "refreshDB": "rm -Rf data; mkdir -p data",
+    "build": "rollup -c 'rollup_config.js'",
+    "start": "node src/app.js"
+  },
+  "author": "Yevhenii Smolenko",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^11.2.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "hbs": "^4.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "rollup": "^2.46.0",
+    "three": "^0.128.0",
+    "validator": "^13.6.0"
+  }
+}

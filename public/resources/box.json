@@ -1,0 +1,8 @@
+{
+  "box": {
+    "type": "box",
+    "width": 2,
+    "height": 30,
+    "depth": 2
+  }
+}

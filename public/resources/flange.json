@@ -1,0 +1,32 @@
+{
+  "ringOuter": {
+    "type": "ring",
+    "innerRadius": 78,
+    "outerRadius": 110,
+    "height": 10,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#0AA3E5"
+  },
+  "ringInner": {
+    "type": "ring",
+    "innerRadius": 72,
+    "outerRadius": 78,
+    "height": 5,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0
+    },
+    "color": "#0AA3E5"
+  }
+}
