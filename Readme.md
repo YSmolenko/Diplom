@@ -1,7 +1,7 @@
-Скачати NodeJS https://nodejs.org/en/ 
-(При розробці використовувалась версія 4.4.4)
-Скачати MongoDB https://www.mongodb.com/try/download/community
-(При розробці використовувалась версія 4.4.6)
+Download NodeJS https://nodejs.org/en/ 
+(used version 4.4.4)
+Download MongoDB https://www.mongodb.com/try/download/community
+(used version 4.4.6)
 
 npm init
 npm i express
